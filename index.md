@@ -4,19 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I’m a first-year Ph.D. student at <a href="https://www.uiowa.edu/" target="_blank" rel="noopener">University of Iowa</a>, supervised by <a href="https://weiranwang19.github.io/" target="_blank" rel="noopener">Prof. Weiran Wang</a>, focusing on speech processing, especially automatic speech recognition (ASR). I received my B.Eng. in Computer Science and Technology from <a href="https://en.tju.edu.cn/" target="_blank" rel="noopener">Tianjin University</a>.
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Speech:** ASR
 
-## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
