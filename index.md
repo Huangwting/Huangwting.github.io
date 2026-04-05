@@ -9,7 +9,7 @@ I’m a first-year Ph.D. student at <a href="https://www.uiowa.edu/" target="_bl
 
 ## Research Interests
 
-- **Speech:** ASR
+- **Speech:** non-autoregressive ASR、semi-supervised ASR
 
 
 
