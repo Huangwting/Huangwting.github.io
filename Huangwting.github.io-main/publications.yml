@@ -1,0 +1,10 @@
+main:
+  - title: "A Neural Model for Contextual Biasing Score Learning and Filtering"
+    authors: "<strong>Wanting Hunag</strong>, Weiran Wang* (*Corresponding authors)"
+    conference_short: ASRU
+    conference: ASRU, 2025
+    pdf: https://arxiv.org/pdf/2510.23849
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ./assets/img/teaser_example_2.png
+    notes: Poster

@@ -1,0 +1,20 @@
+main:
+  - title: "A Neural Model for Contextual Biasing Score Learning and Filtering"
+    authors: "<strong>Wanting Hunag</strong>, Weiran Wang* (*Corresponding authors)"
+    conference_short: ASRU
+    conference: ASRU, 2025
+    pdf: https://arxiv.org/pdf/2510.23849
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ./assets/img/teaser_example_2.png
+    notes: Poster
+
+  - title: "Align-Consistency: Improving Non-autoregressive and Semi-supervised ASR with Consistency Regularization"
+    authors: "<strong>Wanting Hunag</strong>, Weiran Wang* (*Corresponding authors)"
+    conference_short: ""
+    conference: ""
+    pdf: https://arxiv.org/abs/2602.23171
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ./assets/img/teaser_example_2.png
+    notes: ""
