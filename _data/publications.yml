@@ -8,7 +8,7 @@ main:
     notes: Poster
 
   - title: "Align-Consistency: Improving Non-autoregressive and Semi-supervised ASR with Consistency Regularization"
-    authors: "<strong>Wanting Hnnag</strong>, Weiran Wang* (*Corresponding authors)"
+    authors: "<strong>Wanting Huang</strong>, Weiran Wang* (*Corresponding authors)"
     conference_short: ""
     conference: "Interspeech  2026"
     pdf: https://arxiv.org/abs/2602.23171
