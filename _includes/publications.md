@@ -1,11 +1,11 @@
 <h2 id="publications" style="margin: 2px 0 0;">Publications</h2>
 
-<p style="margin: 2px 0 12px; font-size: 14px;">
+<p style="margin: 2px 0 4px; font-size: 14px;">
   <em>* Corresponding author</em>
 </p>
 
-<div class="publications">
-<ol class="bibliography">
+<div class="publications" style="margin-top: 0;">
+<ol class="bibliography" style="margin-top: 0; padding-top: 0;">
 
 {% for link in site.data.publications.main %}
 
