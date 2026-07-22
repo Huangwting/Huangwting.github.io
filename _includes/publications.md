@@ -1,4 +1,8 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0 0;">Publications</h2>
+
+<p style="margin: 2px 0 12px; font-size: 14px;">
+  <em>* Corresponding author</em>
+</p>
 
 <div class="publications">
 <ol class="bibliography">
