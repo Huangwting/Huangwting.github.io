@@ -1,6 +1,6 @@
 main:
 
-- title: "CTC-Seeded Token Edit Refinement for Non-Autoregressive Speech Recognition"
+  - title: "CTC-Seeded Token Edit Refinement for Non-Autoregressive Speech Recognition"
     authors: "<strong>Wanting Huang</strong>, Weiran Wang* (*Corresponding authors)"
     conference_short: SLT
     conference: "SLT  2025"
