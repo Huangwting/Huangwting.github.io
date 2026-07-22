@@ -1,22 +1,21 @@
 main:
-
   - title: "CTC-Seeded Token Edit Refinement for Non-Autoregressive Speech Recognition"
     authors: "<strong>Wanting Huang</strong>, Weiran Wang* (*Corresponding authors)"
     conference_short: SLT
-    conference: "SLT  2025"
+    conference: "SLT 2025"
     pdf: https://arxiv.org/abs/2606.28732
     notes: ""
 
   - title: "Align-Consistency: Improving Non-autoregressive and Semi-supervised ASR with Consistency Regularization"
     authors: "<strong>Wanting Huang</strong>, Weiran Wang* (*Corresponding authors)"
     conference_short: ""
-    conference: "Interspeech  2026"
+    conference: "Interspeech 2026"
     pdf: https://arxiv.org/abs/2602.23171
     notes: Poster
-  
+
   - title: "A Neural Model for Contextual Biasing Score Learning and Filtering"
     authors: "<strong>Wanting Huang</strong>, Weiran Wang* (*Corresponding authors)"
     conference_short: ASRU
-    conference: "ASRU  2025"
+    conference: "ASRU 2025"
     pdf: https://arxiv.org/pdf/2510.23849
     notes: Poster
