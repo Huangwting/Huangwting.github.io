@@ -1,4 +1,20 @@
 main:
+  - title: "Structured Latent Modeling for Supervised Multimodal Information Decomposition"
+    authors: "<strong>Wanting Huang</strong>, Sanvesh Srivastava*, Weiran Wang*"
+    conference_short: ""
+    conference: ""
+    pdf: https://arxiv.org/abs/2609.35502
+    notes: ""
+
+  - title: "Transcribe, Translate, and Optimize: Joint Reward Learning for Speech Translation"
+    authors: "Yanghe Dong, <strong>Wanting Huang</strong>, Weiran Wang*"
+    conference_short: ""
+    conference: ""
+    pdf: https://arxiv.org/abs/2609.26536
+    notes: ""
+
+  # 下面保留你原来的三篇论文
+
   - title: "CTC-Seeded Token Edit Refinement for Non-Autoregressive Speech Recognition"
     authors: "<strong>Wanting Huang</strong>, Weiran Wang*"
     conference_short: SLT
